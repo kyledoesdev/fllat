@@ -1,0 +1,6 @@
+- composer i
+- php artisan flux:install
+- php artisan key:generate
+- php artisan migrate --seed
+- npm i
+- npm run dev
